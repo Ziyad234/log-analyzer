@@ -1,0 +1,6 @@
+===== LOG ANALYZER REPORT =====
+total log entries: 9
+Successful login: 3
+Failed login: 4
+Suspicious activity: 192.168.1.20 - 3 failed attempts
+Total unique IP: 2
